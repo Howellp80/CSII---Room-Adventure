@@ -6,3 +6,4 @@ $ make all
 $ gold
 
 
+TODO: convert descriptive text blocks to files, and add a function to read/print those files where appropriate.
